@@ -1,0 +1,25 @@
+{
+  "name": "3D Separator Simulation",
+  "short_name": "Separator 3D",
+  "description": "Operator training simulator for a 3-phase production separator, its treating, utility and produced-water plants, in real-time 3D.",
+  "display": "standalone",
+  "start_url": "pwa-index.html",
+  "scope": "./",
+  "orientation": "landscape",
+  "background_color": "#0e1116",
+  "theme_color": "#0e1116",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
